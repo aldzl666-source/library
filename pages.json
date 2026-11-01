@@ -126,5 +126,13 @@
     "title": "모르는 업무 용어, AI한테 묻기",
     "desc": "처음 듣는 용어 쉽게 설명받는 프롬프트",
     "count": 5
+  },
+  {
+    "slug": "self-intro",
+    "date": "2026-11-02",
+    "corner": "Before/After",
+    "title": "1분 자기소개, 첫 문장부터",
+    "desc": "나열형 자기소개 다듬는 프롬프트",
+    "count": 4
   }
 ]
